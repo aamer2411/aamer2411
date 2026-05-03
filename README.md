@@ -136,87 +136,89 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
 
 ## 🏆 Certifications
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-10%20Certifications-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
-</div>
-
-<br/>
-
 <table width="100%">
 <tr>
-  <td align="center" width="25%"><img src="https://img.shields.io/badge/DP--700-Fabric%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
-  <td align="center" width="25%"><img src="https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Eng-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
-  <td align="center" width="25%"><img src="https://img.shields.io/badge/DP--203-Data%20Engineer%20Assoc-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
-  <td align="center" width="25%"><img src="https://img.shields.io/badge/DP--100-Data%20Scientist%20Assoc-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
+  <th align="center" bgcolor="#004890">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-10%20Certifications-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
+  </th>
 </tr>
 <tr>
-  <td align="center"><img src="https://img.shields.io/badge/AZ--305-Solutions%20Architect-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
-  <td align="center"><img src="https://img.shields.io/badge/AZ--400-DevOps%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
-  <td align="center"><img src="https://img.shields.io/badge/AZ--204-Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
-  <td align="center"><img src="https://img.shields.io/badge/AZ--104-Admin%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/AI--102-AI%20Engineer%20Assoc-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
-  <td align="center"><img src="https://img.shields.io/badge/DP--900-Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
-  <td align="center">&nbsp;</td>
-  <td align="center">&nbsp;</td>
+  <td align="center">
+    <br/>
+    <img src="https://img.shields.io/badge/DP--700-Fabric%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
+    <img src="https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Eng-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
+    <img src="https://img.shields.io/badge/DP--203-Data%20Engineer%20Assoc-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
+    <img src="https://img.shields.io/badge/DP--100-Data%20Scientist%20Assoc-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
+    <img src="https://img.shields.io/badge/AZ--305-Solutions%20Architect-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
+    <img src="https://img.shields.io/badge/AZ--400-DevOps%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
+    <img src="https://img.shields.io/badge/AZ--204-Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
+    <img src="https://img.shields.io/badge/AZ--104-Admin%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
+    <img src="https://img.shields.io/badge/AI--102-AI%20Engineer%20Assoc-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
+    <img src="https://img.shields.io/badge/DP--900-Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
+    <br/><br/>
+  </td>
 </tr>
 </table>
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Databricks-4%20Certifications-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=B81F0F" />
-</div>
-
-<br/>
-
 <table width="100%">
 <tr>
-  <td align="center" width="25%"><img src="https://img.shields.io/badge/Data%20Engineer%20Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /></td>
-  <td align="center" width="25%"><img src="https://img.shields.io/badge/Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /></td>
-  <td align="center" width="25%"><img src="https://img.shields.io/badge/Machine%20Learning%20Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /></td>
-  <td align="center" width="25%"><img src="https://img.shields.io/badge/Generative%20AI%20Engineer-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /></td>
+  <th align="center" bgcolor="#B81F0F">
+    <img src="https://img.shields.io/badge/Databricks-4%20Certifications-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=B81F0F" />
+  </th>
+</tr>
+<tr>
+  <td align="center">
+    <br/>
+    <img src="https://img.shields.io/badge/Data%20Engineer%20Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Machine%20Learning%20Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Generative%20AI%20Engineer-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+    <br/><br/>
+  </td>
 </tr>
 </table>
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-3%20Certifications-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" />
-</div>
-
-<br/>
-
 <table width="100%">
 <tr>
-  <td align="center" width="25%"><img src="https://img.shields.io/badge/DEA--C01-Data%20Engineer%20Assoc-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" /></td>
-  <td align="center" width="25%"><img src="https://img.shields.io/badge/SAA--C03-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" /></td>
-  <td align="center" width="25%"><img src="https://img.shields.io/badge/CLF--C02-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" /></td>
-  <td align="center" width="25%">&nbsp;</td>
+  <th align="center" bgcolor="#C47500">
+    <img src="https://img.shields.io/badge/Amazon%20Web%20Services-3%20Certifications-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" />
+  </th>
+</tr>
+<tr>
+  <td align="center">
+    <br/>
+    <img src="https://img.shields.io/badge/DEA--C01-Data%20Engineer%20Assoc-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" />
+    <img src="https://img.shields.io/badge/SAA--C03-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" />
+    <img src="https://img.shields.io/badge/CLF--C02-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" />
+    <br/><br/>
+  </td>
 </tr>
 </table>
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Google%20Cloud-7%20Certifications-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1565C0" />
-</div>
-
-<br/>
-
 <table width="100%">
 <tr>
-  <td align="center" width="25%"><img src="https://img.shields.io/badge/Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></td>
-  <td align="center" width="25%"><img src="https://img.shields.io/badge/Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></td>
-  <td align="center" width="25%"><img src="https://img.shields.io/badge/Professional%20ML%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></td>
-  <td align="center" width="25%"><img src="https://img.shields.io/badge/Professional%20Cloud%20Developer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></td>
+  <th align="center" bgcolor="#1565C0">
+    <img src="https://img.shields.io/badge/Google%20Cloud-7%20Certifications-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1565C0" />
+  </th>
 </tr>
 <tr>
-  <td align="center"><img src="https://img.shields.io/badge/Professional%20DevOps%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></td>
-  <td align="center"><img src="https://img.shields.io/badge/Professional%20Database%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></td>
-  <td align="center"><img src="https://img.shields.io/badge/Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></td>
-  <td align="center">&nbsp;</td>
+  <td align="center">
+    <br/>
+    <img src="https://img.shields.io/badge/Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Professional%20ML%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Professional%20Cloud%20Developer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Professional%20DevOps%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Professional%20Database%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <br/><br/>
+  </td>
 </tr>
 </table>
 
