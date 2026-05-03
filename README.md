@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,45:7B2FBE,100:FF3621&height=230&section=header&text=Mohammed%20Aamer&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Senior%20Data%20Engineer%20%E2%80%94%20Azure%20%C2%B7%20Databricks%20%C2%B7%20AWS%20%C2%B7%20GCP&descAlignY=58&descSize=19&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,45:7B2FBE,100:FF3621&height=230&section=header&text=Mohammed%20Aamer&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Senior%20Data%20Engineer%20%7C%20Azure%20%C2%B7%20Databricks%20%C2%B7%20AWS%20%C2%B7%20GCP&descAlignY=58&descSize=19&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -11,6 +11,10 @@
 <div align="center">
   <a href="https://linkedin.com/in/aamer2411">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:anonjan90@gmail.com">
+    <img src="https://img.shields.io/badge/anonjan90%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=aamer2411&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" />
@@ -136,13 +140,20 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
 
 ---
 
-## 🏆 Certifications
+## 📊 GitHub Activity
 
 <div align="center">
-  <sub>10 Microsoft Azure &nbsp;·&nbsp; 4 Databricks &nbsp;·&nbsp; 3 Amazon Web Services &nbsp;·&nbsp; 7 Google Cloud &nbsp;=&nbsp; <b>24 total</b></sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=aamer2411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamer2411&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamer2411&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="140" />
+</div>
+
+---
+
+## 🏆 Certifications
 
 <div align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Azure-10%20Certifications-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
@@ -256,7 +267,7 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
 </thead>
 <tbody>
 <tr>
-  <td>MSc Data Science</td>~
+  <td>MSc Data Science</td>
   <td>Liverpool John Moores University</td>
   <td>2024 – 2025</td>
 </tr>
@@ -272,6 +283,22 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
 </tr>
 </tbody>
 </table>
+
+---
+
+## 🤝 Let's Build Something
+
+Available for data engineering engagements: Lakehouse builds, cloud migrations, pipeline modernization, and technical advisory across Insurance, Healthcare, and Financial Services.
+
+<div align="center">
+  <a href="https://linkedin.com/in/aamer2411">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:anonjan90@gmail.com">
+    <img src="https://img.shields.io/badge/anonjan90%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 <br/>
 
