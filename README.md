@@ -136,36 +136,49 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
 
 ## 🏆 Certifications
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
 <div align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Azure-10%20Certifications-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
 </div>
 
-- **DP-700** &nbsp; Fabric Data Engineer Associate
-- **DP-600** &nbsp; Fabric Analytics Engineer Associate
-- **DP-203** &nbsp; Azure Data Engineer Associate
-- **DP-100** &nbsp; Azure Data Scientist Associate
-- **AZ-305** &nbsp; Solutions Architect Expert
-- **AZ-400** &nbsp; DevOps Engineer Expert
-- **AZ-204** &nbsp; Developer Associate
-- **AZ-104** &nbsp; Administrator Associate
-- **AI-102** &nbsp; AI Engineer Associate
-- **DP-900** &nbsp; Data Fundamentals
+<br/>
 
-</td>
-<td valign="top" width="50%">
+<table width="100%">
+<tr>
+  <td align="center" width="25%"><img src="https://img.shields.io/badge/DP--700-Fabric%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
+  <td align="center" width="25%"><img src="https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Eng-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
+  <td align="center" width="25%"><img src="https://img.shields.io/badge/DP--203-Data%20Engineer%20Assoc-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
+  <td align="center" width="25%"><img src="https://img.shields.io/badge/DP--100-Data%20Scientist%20Assoc-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/AZ--305-Solutions%20Architect-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/AZ--400-DevOps%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/AZ--204-Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/AZ--104-Admin%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/AI--102-AI%20Engineer%20Assoc-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/DP--900-Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" /></td>
+  <td align="center">&nbsp;</td>
+  <td align="center">&nbsp;</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Databricks-4%20Certifications-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=B81F0F" />
 </div>
 
-- Data Engineer Professional
-- Data Engineer Associate
-- Machine Learning Professional
-- Generative AI Engineer Associate
+<br/>
+
+<table width="100%">
+<tr>
+  <td align="center" width="25%"><img src="https://img.shields.io/badge/Data%20Engineer%20Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /></td>
+  <td align="center" width="25%"><img src="https://img.shields.io/badge/Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /></td>
+  <td align="center" width="25%"><img src="https://img.shields.io/badge/Machine%20Learning%20Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /></td>
+  <td align="center" width="25%"><img src="https://img.shields.io/badge/Generative%20AI%20Engineer-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /></td>
+</tr>
+</table>
 
 <br/>
 
@@ -173,38 +186,37 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-3%20Certifications-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" />
 </div>
 
-- **DEA-C01** &nbsp; Data Engineer Associate
-- **SAA-C03** &nbsp; Solutions Architect Associate
-- **CLF-C02** &nbsp; Cloud Practitioner
+<br/>
 
-</td>
-</tr>
+<table width="100%">
 <tr>
-<td valign="top" colspan="2">
+  <td align="center" width="25%"><img src="https://img.shields.io/badge/DEA--C01-Data%20Engineer%20Assoc-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" /></td>
+  <td align="center" width="25%"><img src="https://img.shields.io/badge/SAA--C03-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" /></td>
+  <td align="center" width="25%"><img src="https://img.shields.io/badge/CLF--C02-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" /></td>
+  <td align="center" width="25%">&nbsp;</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Google%20Cloud-7%20Certifications-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1565C0" />
 </div>
 
-<table width="100%"><tr>
-<td valign="top" width="50%">
+<br/>
 
-- Professional Data Engineer
-- Professional Cloud Architect
-- Professional ML Engineer
-- Professional Cloud Developer
-
-</td>
-<td valign="top" width="50%">
-
-- Professional DevOps Engineer
-- Professional Database Engineer
-- Associate Cloud Engineer
-
-</td>
-</tr></table>
-
-</td>
+<table width="100%">
+<tr>
+  <td align="center" width="25%"><img src="https://img.shields.io/badge/Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></td>
+  <td align="center" width="25%"><img src="https://img.shields.io/badge/Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></td>
+  <td align="center" width="25%"><img src="https://img.shields.io/badge/Professional%20ML%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></td>
+  <td align="center" width="25%"><img src="https://img.shields.io/badge/Professional%20Cloud%20Developer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/Professional%20DevOps%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/Professional%20Database%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></td>
+  <td align="center">&nbsp;</td>
 </tr>
 </table>
 
