@@ -27,13 +27,13 @@ Across Insurance, Healthcare, and Financial Services, I've learned what separate
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-36BCF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-2ECC71?style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Certifications-24-FF3621?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Industries-3-4285F4?style=for-the-badge" />
   &nbsp;
   <img src="https://img.shields.io/badge/Cloud%20Platforms-4-FF9900?style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Industries-3-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Certifications-24-FF3621?style=for-the-badge" />
 </div>
 
 ---
@@ -184,16 +184,16 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
 
 <table width="100%">
 <tr>
-  <th align="center" width="100%" bgcolor="#C47500">
+  <th align="center" width="100%" bgcolor="#27AE60">
     <font color="white"><b>Amazon Web Services &nbsp;|&nbsp; 3 Certifications</b></font>
   </th>
 </tr>
 <tr>
   <td align="center" width="100%">
     <br/>
-    <img src="https://img.shields.io/badge/DEA--C01-Data%20Engineer%20Assoc-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" />
-    <img src="https://img.shields.io/badge/SAA--C03-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" />
-    <img src="https://img.shields.io/badge/CLF--C02-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" />
+    <img src="https://img.shields.io/badge/DEA--C01-Data%20Engineer%20Assoc-2ECC71?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=27AE60" />
+    <img src="https://img.shields.io/badge/SAA--C03-Solutions%20Architect-2ECC71?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=27AE60" />
+    <img src="https://img.shields.io/badge/CLF--C02-Cloud%20Practitioner-2ECC71?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=27AE60" />
     <br/><br/>
   </td>
 </tr>
