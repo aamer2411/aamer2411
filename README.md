@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&repeat=true&width=780&lines=Senior+Data+Engineer+%7C+7%2B+Years+of+Experience;Near-Real-Time+Pipelines+%C2%B7+Medallion+Architecture+%C2%B7+Delta+Lake;Azure+%C2%B7+Databricks+%C2%B7+AWS+%C2%B7+GCP+%7C+All+Four+Clouds;From+Raw+Events+to+Trusted+Business+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&repeat=true&width=780&lines=Senior+Data+Engineer+%7C+7%2B+Years+of+Experience;Near-Real-Time+Pipelines+%C2%B7+Medallion+Architecture+%C2%B7+Delta+Lake;Azure+%C2%B7+Databricks+%C2%B7+AWS+%C2%B7+GCP;From+Raw+Events+to+Trusted+Business+Intelligence" alt="Typing SVG" />
 </div>
 
 <br/>
