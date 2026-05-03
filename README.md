@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/aamer2411">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
@@ -27,7 +27,7 @@ Across Insurance, Healthcare, and Financial Services, I've learned what separate
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-2ECC71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-1A7A3C?style=for-the-badge" />
   &nbsp;
   <img src="https://img.shields.io/badge/Industries-3-4285F4?style=for-the-badge" />
   &nbsp;
@@ -296,13 +296,13 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
 
 ---
 
-## 🤝 Let's Build Something
+## 🤝 Let's Build Something Great
 
 Available for data engineering engagements: Lakehouse builds, cloud migrations, pipeline modernization, and technical advisory across Insurance, Healthcare, and Financial Services.
 
 <div align="center">
   <a href="https://linkedin.com/in/aamer2411">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
