@@ -138,12 +138,12 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
 
 <table width="100%">
 <tr>
-  <th align="center" bgcolor="#004890">
-    <img src="https://img.shields.io/badge/Microsoft%20Azure-10%20Certifications-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
+  <th align="center" width="100%" bgcolor="#004890">
+    <font color="white"><b>Microsoft Azure &nbsp;|&nbsp; 10 Certifications</b></font>
   </th>
 </tr>
 <tr>
-  <td align="center">
+  <td align="center" width="100%">
     <br/>
     <img src="https://img.shields.io/badge/DP--700-Fabric%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
     <img src="https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Eng-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004890" />
@@ -164,12 +164,12 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
 
 <table width="100%">
 <tr>
-  <th align="center" bgcolor="#B81F0F">
-    <img src="https://img.shields.io/badge/Databricks-4%20Certifications-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=B81F0F" />
+  <th align="center" width="100%" bgcolor="#B81F0F">
+    <font color="white"><b>Databricks &nbsp;|&nbsp; 4 Certifications</b></font>
   </th>
 </tr>
 <tr>
-  <td align="center">
+  <td align="center" width="100%">
     <br/>
     <img src="https://img.shields.io/badge/Data%20Engineer%20Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
     <img src="https://img.shields.io/badge/Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -184,12 +184,12 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
 
 <table width="100%">
 <tr>
-  <th align="center" bgcolor="#C47500">
-    <img src="https://img.shields.io/badge/Amazon%20Web%20Services-3%20Certifications-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" />
+  <th align="center" width="100%" bgcolor="#C47500">
+    <font color="white"><b>Amazon Web Services &nbsp;|&nbsp; 3 Certifications</b></font>
   </th>
 </tr>
 <tr>
-  <td align="center">
+  <td align="center" width="100%">
     <br/>
     <img src="https://img.shields.io/badge/DEA--C01-Data%20Engineer%20Assoc-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" />
     <img src="https://img.shields.io/badge/SAA--C03-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C47500" />
@@ -203,12 +203,12 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
 
 <table width="100%">
 <tr>
-  <th align="center" bgcolor="#1565C0">
-    <img src="https://img.shields.io/badge/Google%20Cloud-7%20Certifications-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1565C0" />
+  <th align="center" width="100%" bgcolor="#1565C0">
+    <font color="white"><b>Google Cloud &nbsp;|&nbsp; 7 Certifications</b></font>
   </th>
 </tr>
 <tr>
-  <td align="center">
+  <td align="center" width="100%">
     <br/>
     <img src="https://img.shields.io/badge/Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
