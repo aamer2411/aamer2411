@@ -277,7 +277,7 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
 </thead>
 <tbody>
 <tr>
-  <td>MSc Data Science</td>
+  <td>M.Sc. Data Science</td>
   <td>Liverpool John Moores University</td>
   <td>2024 – 2025</td>
 </tr>
@@ -287,7 +287,7 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
   <td>2022 – 2023</td>
 </tr>
 <tr>
-  <td>B.Tech Mechanical Engineering</td>
+  <td>B.Tech. Mechanical Engineering</td>
   <td>Aligarh Muslim University</td>
   <td>2014 – 2018</td>
 </tr>
