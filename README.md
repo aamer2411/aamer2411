@@ -18,7 +18,7 @@
 
 ---
 
-I build the data infrastructure that businesses depend on. From ingesting Guidewire CDA insurance events in near-real-time to migrating 300+ legacy DataStage jobs to AWS, my work spans the full data engineering stack: ingestion, transformation, Lakehouse architecture, observability, and production delivery.
+I build the data infrastructure that businesses depend on. From ingesting Guidewire CDA insurance events in near-real-time to migrating 100+ legacy DataStage jobs to AWS, my work spans the full data engineering stack: ingestion, transformation, Lakehouse architecture, observability, and production delivery.
 
 Across Insurance, Healthcare, and Financial Services, I've learned what separates pipelines that look good in demos from platforms that hold up at 3am. It comes down to governance, observability, and metadata-driven design. That's where I focus.
 
@@ -81,6 +81,17 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
 </td>
 </tr>
 </table>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Stack | What it shows |
+|---|---|---|
+| [Guidewire Claims Lakehouse](https://github.com/aamer2411/azure-databricks-pipeline-insurance-guidewire) | Databricks, ADF, Unity Catalog | CDC MERGE, SCD Type 2, metadata-driven control framework |
+| [Healthcare RCM Pipeline](https://github.com/aamer2411/azure-databricks-pipeline-healthcare-rcm) | Databricks, ADF, ADLS | Multi-hospital common data model, star schema, incremental loads |
+| [AWS DataStage Modernization](https://github.com/aamer2411/aws-pipeline-finance-datastage-modernization) | Glue, Step Functions, Lambda, Redshift | Event-driven migration of 100+ legacy jobs |
+| [Urdu Narrative Generation (MSc)](https://github.com/aamer2411/narrative-generation-lora) | HuggingFace, LoRA | Fine-tuning on a single GPU, ROUGE-L +7 to 10% |
 
 ---
 
@@ -246,7 +257,7 @@ Production-grade pipelines with built-in observability, CI/CD, and automatic fai
   <td>Dec 2024 – Oct 2025</td>
   <td><b>Capgemini</b></td>
   <td>Vanguard</td>
-  <td>Migrated 300+ legacy DataStage jobs to AWS Glue: 40% faster runtime, 25% cost reduction</td>
+  <td>Migrated 100+ legacy DataStage jobs to AWS Glue: 40% faster runtime, 25% cost reduction</td>
 </tr>
 <tr>
   <td>Jun 2021 – Nov 2024</td>
